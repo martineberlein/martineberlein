@@ -1,4 +1,4 @@
-# Hi, I'm Martin Eberlein 👋
+# Hi, I'm Martin 👋
 
 🚀 **Researcher & PhD Candidate** @ Humboldt-Universität zu Berlin  
 🪴 **Building Debugging Tools** to enhance software reliability and development efficiency  
