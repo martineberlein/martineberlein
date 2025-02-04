@@ -12,7 +12,7 @@ Check out my latest research on [Google Scholar](https://scholar.google.com/cita
 
 ## 📫 Get in Touch
 - 📧 Email: martin.eberlein@hu-berlin.de
-- 🌐 Website: [martineberlein.github.io](https://martin-eberlein.com)
+- 🌐 Website: [https://martin-eberlein.com](https://martin-eberlein.com)
 
 ---
 💡 Always open to discussions, collaborations, and ideas in software engineering and debugging tools!
