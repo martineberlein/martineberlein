@@ -4,7 +4,7 @@
 🪴 **Building Debugging Tools** to enhance software reliability and development efficiency  
 🔭 **Currently Working On:**
 
-- [FDLearn](https://github.com/martineberlein/fandango-learn) – A invaraint learner, mining input specifications that distinguish between accepted and rejected inputs.
+- [FandangoLearn](https://github.com/martineberlein/fandango-learn) – A invariant learner mining input specifications that distinguish between accepted and rejected inputs.
 - [Avicenna](https://github.com/martineberlein/avicenna) – A tool for explaining input circumstances that trigger pathological program behavior, i.e., bugs.
 - [EvoGFuzz](https://github.com/martineberlein/evogfuzzplusplus) – An evolutionary grammar-based fuzzer for generating effective test inputs.
 
